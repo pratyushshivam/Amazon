@@ -4,6 +4,9 @@
 
 This project was built in React and is a clone of Amazon. It is just the basic frontend components to form the home page, basket page and the login/register page.
 If you would like to view a live example of this clone. You can visit the live Firebase version at https://turnixs.web.app/
+![1](screenshot.png)
+![2](screenshot.png)
+![3](screenshot.png)
 
 ## Available Scripts
 
